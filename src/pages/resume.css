@@ -1,0 +1,11 @@
+.resume ul {
+    list-style: none;
+}
+
+.resume blockquote {
+    border-left-color: #4d00c3;
+}
+
+.resume a:hover {
+    color: #4d00c3;
+}

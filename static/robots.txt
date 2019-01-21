@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eduardo-verdeja.surge.sh/sitemap.xml

@@ -1,0 +1,19 @@
+{
+  "title": "Home",
+  "content": "intro.md",
+  "gallery": [{
+    "title": "Front-end",
+    "copy": "ES6, React, Apollo, GatsbyJS",
+    "image": "../images/gallery/front-end.jpg"
+  },
+  {
+    "title": "Back-end",
+    "copy": "Node.js, PHP, GraphQL",
+    "image": "../images/gallery/back-end.jpg"
+  },
+  {
+    "title": "Music",
+    "copy": "Guitar",
+    "image": "../images/gallery/music-cropped.jpg"
+  }]
+}
