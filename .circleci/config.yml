@@ -27,6 +27,7 @@ jobs:
       # Run tests
       # - run: yarn test
       - run: yarn build
+      - run: surge --project ./public --domain eduardo-verdeja.surge.sh
       # - deploy:
       #     command: |
       #       git config --global user.email $GH_EMAIL
