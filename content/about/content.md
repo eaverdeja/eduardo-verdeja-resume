@@ -1,6 +1,6 @@
 This portfolio was built with GatsbyJS and is based on the [Universal Starter](https://github.com/fabe/gatsby-universal).
 
-This is my first personal site and I plan to keep it growing by adding a posts section and documenting my life on the software industry.
+This is my first personal site and I plan to keep it growing by adding a posts section and documenting my life on the software industry. Testing the CircleCI + Surge Integration!
 
 > Kudos for GatsbyJS for creating a fantastic experience for website building!
 
